@@ -1,0 +1,1 @@
+Schematics associated with the footprints
